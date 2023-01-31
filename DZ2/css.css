@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'beer money';
+	src: url('../fonts/beer_money.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/beer_money.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/beer_money.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/beer_money.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/beer_money.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/beer_money.svg#beer_money') format('svg'); /* Chrome < 4, Legacy iOS */
+} 
+ 
+ 
+ 
+body {
+    background-color: rgb(182, 198, 228);
+    font-size: 18 px;
+    font-family: 'beer_money', sans-serif;
+    
+   
+}
+h1{
+    color: rgb(99, 27, 194);
+    text-align: center;
+}
+h2{
+    color: rgb(16, 145, 37);
+    text-align: center;
+    
+}
+h3{
+    color: rgb(187, 27, 62);
+    font-size: 19 px;
+    
+}
+
+.big_text{
+    font-size: 20px;
+}
+p{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
